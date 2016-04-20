@@ -8,9 +8,9 @@ Para empezar a usarlo primero se necesita descargar la librería de jQuery.
 Después descargar el script y colocarlo dentro del sitio.
 
 Para activar el plugin, se tiene que hacer la siguiente declaración en el script principal del sitio:
-  
+  ```javascript
   $(".linkBackground a").linkBackground()
-
+  ```
 También hay un archivo con un ejemplo de cómo se tiene que activar.
 
 
